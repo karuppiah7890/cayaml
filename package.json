@@ -1,0 +1,26 @@
+{
+  "name": "cayaml",
+  "version": "0.0.1",
+  "description": "Command as YAML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "command",
+    "yaml",
+    "shell",
+    "bash",
+    "terminal"
+  ],
+  "author": "Karuppiah",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karuppiah7890/cayaml.git"
+  },
+  "bugs": {
+    "url": "https://github.com/karuppiah7890/cayaml/issues"
+  },
+  "homepage": "https://github.com/karuppiah7890/cayaml#readme"
+}
