@@ -1,0 +1,13 @@
+name: curl
+flags:
+  - name: -H
+    value: 'Content-Type: application/json'
+  - name: -X
+    value: POST
+  - name: -d
+    value: {
+      "user": "bob",
+      "pass": "123"
+    }
+arguments:
+  - http://example.com

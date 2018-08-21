@@ -1,0 +1,10 @@
+name: curl
+flags:
+  - name: -H
+    value: 'Content-Type: {{ dataType }}'
+  - name: -X
+    value: {{ method }}
+  - name: -d
+    value: {{ data }}
+arguments:
+  - {{ url }}

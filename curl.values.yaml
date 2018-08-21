@@ -1,0 +1,7 @@
+method: POST
+dataType: application/json
+data: {
+  "user": "bob",
+  "pass": "123"
+} 
+url: http://example.com
